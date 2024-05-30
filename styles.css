@@ -1,0 +1,96 @@
+body{
+    background: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+header h1{
+    margin: 0;
+    padding: 10px;
+}
+div.post1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white !important;
+    width: 600px;
+    border-radius: 10px;
+}
+.post1 h4{
+    margin-left: 10px;
+    padding-top: 10px;
+    display: inline-block;
+}
+.post1 span{
+    margin-left: 320px;
+    display: inline-block;
+    color: gray;
+}
+.post1 p{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.Gatitos {
+    width: 600px;
+    height: auto;
+    display: block;
+}
+div.post2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white !important;
+    width: 600px;
+    border-radius: 10px;
+}
+.post2 h4{
+    margin-left: 10px;
+    padding-top: 10px;
+    display: inline-block;
+}
+.post2 span{
+    display: inline-block;
+    margin-left: 360px;
+    color: gray;
+}
+.post2 p{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.Cine{
+    width: 600px;
+    height: auto;
+    display: block;
+}
+div.post3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white !important;
+    width: 600px;
+    border-radius: 10px;
+}
+.post3 h4{
+    margin-left: 10px;
+    padding-top: 10px;
+    display: inline-block;
+}
+.post3 span{
+    display: inline-block;
+    margin-left: 360px;
+    color: gray;
+}
+.post3 p{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.Viajes{
+    width: 600px;
+    height: auto;
+    display: block;
+}
+div.posts{
+    width: 600px;
+    margin:auto
+}
+a{
+    color: black;
+}
